@@ -1,5 +1,5 @@
 .===================================================================================
-# Music Box Capstone Project
+# Music Box Recommender
 
     by Xi Guo   
     07/08/2018
